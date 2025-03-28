@@ -1,6 +1,6 @@
 ---
 title: "The second post"
-date: 2025-03-28T22:19:10+03:00
+date: 2025-03-28T22:20:10+03:00
 draft: false
 ---
 
