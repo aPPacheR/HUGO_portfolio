@@ -1,0 +1,4 @@
+baseURL = 'https://HUGO-porfolio.github.io'
+languageCode = 'ru-ru'
+title = 'My Hugo Portfolio'
+theme = "paper"
